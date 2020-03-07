@@ -1,0 +1,21 @@
+     NOTES ON SASS
+------------------------
+
+
+
+- Provides 2 file extension (.scss and .sass)
+
+NOTE: .scss has more css like syntax as compared to .sass
+
+- Allows Usage of Variables
+- Allows Nesting of css properties
+- Allows Creation of modules thus allowing us to break our files to separate sass files and 
+  bring them to single file. 
+  
+NOTE:  with just a little setup these imports are handled during compilation
+       and thus do not require multiple Http request during page load.  
+
+- Allows us to write functions and mixins
+- Allows us to inherit styles
+- Allows us to use operators to do calculations
+- Allows us to use conditionals 
